@@ -15,12 +15,12 @@
     "@hashicorp/react-button": "^6.0.1",
     "@hashicorp/react-command-line-terminal": "^2.0.4",
     "@hashicorp/react-consent-manager": "^7.0.3",
-    "@hashicorp/react-docs-page": "^14.13.0",
+    "@hashicorp/react-docs-page": "^14.14.3",
     "@hashicorp/react-hashi-stack-menu": "^2.1.2",
     "@hashicorp/react-head": "^3.1.2",
     "@hashicorp/react-inline-svg": "^6.0.3",
     "@hashicorp/react-markdown-page": "^1.4.3",
-    "@hashicorp/react-product-downloads-page": "^2.5.3",
+    "@hashicorp/react-product-downloads-page": "^2.7.0",
     "@hashicorp/react-product-features-list": "^5.0.0",
     "@hashicorp/react-search": "^6.1.1",
     "@hashicorp/react-section-header": "^5.0.4",
@@ -38,7 +38,7 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@hashicorp/platform-cli": "^1.2.0",
+    "@hashicorp/platform-cli": "^2.0.0",
     "@hashicorp/platform-nextjs-plugin": "^1.0.1",
     "@hashicorp/platform-types": "^0.1.1",
     "@types/react": "^17.0.3",
